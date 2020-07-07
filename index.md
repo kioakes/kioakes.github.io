@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Homepage for Kieran Oakes.
 
 ### links which may be required:
