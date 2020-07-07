@@ -1,4 +1,4 @@
-# [Homepage](./index.md) for Kieran Oakes.
+# [Homepage](https://kioakes.github.io/) for Kieran Oakes.
 
 ## Cases
 
