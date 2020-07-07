@@ -8,7 +8,7 @@ layout: default
 [ISE](https://nor-ise-adm.sth.nhs.uk/admin/login.jsp)
 
 ### Other pages on this Github.io:
-[Cases](./cases)
+[Casess](./cases)
 
 <style>
 .collapsible {
