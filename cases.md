@@ -1,4 +1,4 @@
-# [Homepage](../index.md) for Kieran Oakes.
+# [Homepage](./index.md) for Kieran Oakes.
 
 ## Cases
 
