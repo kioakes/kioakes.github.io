@@ -5,4 +5,4 @@ requires some attention
 
 
 ### knowledge base:
-[Wiping devices](./wiping-devices)
+[Wiping devices](./wiping-devices.md)
