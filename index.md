@@ -4,5 +4,5 @@
 requires some attention
 
 
-### knowledge base:
+### Knowledge base:
 [Wiping devices](./wiping-devices.md)
